@@ -1,1 +1,5 @@
-www.hooyu.tk
+$ dig www.hooyu.tk +nostats +nocomments +nocmd
+    > ;www.hooyu.tk.                     IN      A
+    > www.hooyu.tk.              3592    IN      CNAME   wy345.github.io.
+    > wy345.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
+    >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
