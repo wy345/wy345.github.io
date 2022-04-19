@@ -11,8 +11,7 @@ body{
     background-color: #efeeee;
 }
 .container{
-    width: 700px;
-    height: 600px;
+    width: 70%;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
