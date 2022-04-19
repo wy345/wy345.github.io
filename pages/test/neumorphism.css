@@ -11,6 +11,7 @@ body{
     background-color: #efeeee;
 }
 .container{
+    width: 700px;
     height: 70%;
     padding: 30px;
     display: flex;
