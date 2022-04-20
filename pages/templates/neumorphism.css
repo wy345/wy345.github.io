@@ -38,7 +38,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(145deg, #ffffff, #cacaca);
+    background: linear-gradient(145deg, #ffffff, #d7d6d6);
     transition: box-shadow .2s ease-out;
     position: relative;
 }
