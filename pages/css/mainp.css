@@ -1,1 +1,8 @@
+@font-face{
+  font-family: QKBYS;
+  src: url("/resource/font/FZQINGKBYSJF.TTF")
+}
 
+body{
+  font-family: QKBYS;
+}
